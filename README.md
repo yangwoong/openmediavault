@@ -1,3 +1,11 @@
+
+빌드시 생성해야할 파일이 없어서 문제발생
+1. rpc 관련파일 deb/openmediavault/www/openmediavault 에서복사
+2. assets에 route-confgi.json, navigation-config.json, 등 파일없음 관련 파일 빌드시 생성 또는 복사 필요.
+빌드 옵션확인 필요  20251121
+
+
+
 # openmediavault
 
 openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, rsync and many more. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices, but is not limited to those scenarios. It is a simple and easy to use out-of-the-box solution that will allow everyone to install and administrate a Network Attached Storage without deeper knowledge.
